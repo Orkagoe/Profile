@@ -1,4 +1,4 @@
-<h1 align="center">Hello gang I'm Orka</h1>
+<h1 align="center">Hello gang it's Orka</h1>
 <h3 align="center">Assshit programmer</h3>
 
 - 🔭 I’m currently working on **Diploma and tg bot**
